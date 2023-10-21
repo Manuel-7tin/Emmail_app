@@ -1,10 +1,10 @@
 # Graphical User Interface (GUI) Email Application
-![Repo Cover]
+![Repo Cover](https://github.com/Manuel-7tin/Emmail_app/blob/main/Emmail-app-cover.jpg)
 
 
 Welcome to the Feature-Rich Graphical User Interface (GUI) Email Application
 
-**Description:**
+# Description:
 Designed and implemented a sophisticated graphical user interface (GUI) email application, harnessing the power of several libraries and frameworks. This versatile application streamlines email communication, allowing users to effortlessly send messages to recipients' email addresses.
 
 # Key Features:
