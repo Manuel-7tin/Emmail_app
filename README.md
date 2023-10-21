@@ -4,7 +4,7 @@
 
 Welcome to the Feature-Rich Graphical User Interface (GUI) Email Application
 
-# Description:
+**Description:**
 Designed and implemented a sophisticated graphical user interface (GUI) email application, harnessing the power of several libraries and frameworks. This versatile application streamlines email communication, allowing users to effortlessly send messages to recipients' email addresses.
 
 # Key Features:
